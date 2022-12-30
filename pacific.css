@@ -1,0 +1,21 @@
+body
+{
+    background-color: rgb(220, 231, 228);
+}
+h1
+{
+    background-color: aqua;
+    text-align: center;
+    line-height: 200%;
+    font-family:Georgia, 'Times New Roman', serif;
+}
+#wrapper 
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%
+} 
+a
+{
+    color: blue;
+}
